@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=gerwengaceta)
 
 🔭 I’m currently working as Web Developer at Remotodojo handling frontend and backend.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerwengaceta)](https://github.com/anuraghazra/github-readme-stats)
+
