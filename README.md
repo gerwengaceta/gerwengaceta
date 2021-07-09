@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[](https://komarev.com/ghpvc/?username=gerwengaceta&style=flat-square)
+[](https://komarev.com/ghpvc/?username=gerwenjacobgaceta&style=flat-square)
 <!--
 **gerwengaceta/gerwengaceta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
