@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=gerwengaceta)
+
 🔭 I’m currently working as Web Developer at Remotodojo handling frontend and backend.
