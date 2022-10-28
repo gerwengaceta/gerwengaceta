@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=gerwengaceta)
 
 🔭 I’m currently working as Software Developer handling frontend and backend.
+<br>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=theshook&theme=oldie&title=Commit,Issues,Stars,PullRequest,Repositories,Followers" />
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerwengaceta&count_private=true&show_icons=true&theme=dracula)
 
