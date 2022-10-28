@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=gerwengaceta)
 
 🔭 I’m currently working as Software Developer handling frontend and backend.
-<br>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=theshook&theme=oldie&title=Commit,Issues,Stars,PullRequest,Repositories,Followers" />
-<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerwengaceta&count_private=true&show_icons=true&theme=dracula)
 
@@ -26,6 +23,11 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerwengaceta&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime week stats](https://github-readme-stats.vercel.app/api/wakatime?username=gerwenjacob&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=gerwengaceta&theme=oldie&title=Commit,Issues,Stars,PullRequest,Repositories,Followers" />
+<br>
 
 
 
