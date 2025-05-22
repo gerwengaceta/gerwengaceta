@@ -108,6 +108,9 @@ Here are some ideas to get you started:
 
 [![willianrod's wakatime week stats](https://github-readme-stats.vercel.app/api/wakatime?username=gerwenjacob&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gerwenjacob&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 
