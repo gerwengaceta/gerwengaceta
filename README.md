@@ -81,6 +81,16 @@ Here are some ideas to get you started:
  <tr>
  </tr>
 </table>
+
+### 🛠️ Tools and Technologies
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerwengaceta&count_private=true&show_icons=true&theme=dracula) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerwengaceta)](https://github.com/anuraghazra/github-readme-stats) -->
