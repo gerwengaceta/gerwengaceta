@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working as Software Developer handling frontend and backend. <br>
 🌱 I’m currently learning React
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rezshakeri/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
+<br />
+<div align="justify">
+  <a href="https://www.linkedin.com/in/gerwenjacobgaceta/">
+  <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
+</div>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerwengaceta&count_private=true&show_icons=true&theme=dracula) -->
 
