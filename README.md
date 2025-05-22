@@ -83,10 +83,6 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/cypress.svg" width="40" height="40" alt="dart" />
-      <br>Cypress
-    </td>
   </tr>
  <tr>
  </tr>
@@ -94,7 +90,12 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerwengaceta&count_private=true&show_icons=true&theme=dracula) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerwengaceta)](https://github.com/anuraghazra/github-readme-stats) -->
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerwengaceta&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+</details>
 
 [![willianrod's wakatime week stats](https://github-readme-stats.vercel.app/api/wakatime?username=gerwenjacob&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
