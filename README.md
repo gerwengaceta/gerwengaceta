@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=gerwengaceta)
 
 🔭 I’m currently working as Software Developer handling frontend and backend. <br>
-🌱 I’m currently learning React
+
 <br />
 <div align="justify">
   <a href="https://www.linkedin.com/in/gerwenjacobgaceta/">
