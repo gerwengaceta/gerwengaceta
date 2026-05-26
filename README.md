@@ -107,6 +107,8 @@ Here are some ideas to get you started:
 
 </details>
 
+https://wakatime.com/@gerwengaceta
+
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gerwengaceta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
